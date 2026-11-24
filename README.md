@@ -340,8 +340,6 @@ fetch("http://localhost:5000/employees", {
 
 # 📈 Learning Outcomes
 
-This project helps developers understand:
-
 - Authentication vs Authorization
 - JWT Implementation
 - Password Hashing
@@ -367,32 +365,3 @@ This project helps developers understand:
 - CI/CD Pipeline
 - Cloud Deployment
 
----
-
-# 👨‍💻 Author
-
-**Vishnu Karthik Ravichandran**
-
-Associate Developer  
-Coimbatore, Tamil Nadu, India
-
-GitHub:
-https://github.com/vishnukarthikr
-
----
-
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repository
-
-🍴 Fork the project
-
-📢 Share with others
-
----
-
-## 📄 License
-
-This project is intended for learning and educational purposes.
